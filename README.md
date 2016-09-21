@@ -17,8 +17,6 @@ What things you need to install the software and how to install them
 
 You need to install the node packages first, run:
 
-Stay what the step will be
-
 ```
 npm install
 ```
